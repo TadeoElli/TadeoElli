@@ -14,6 +14,9 @@
 - 🕹️ Game developer
 - 🎓 Estudiante en la carrera de Diseño y Desarrollo de Videojuegos en la DaVinci (https://davinci.edu.ar/)
 - 🎂 Tengo 23 años
+- 🎮 Me gustan los RPG en especial los soulslike pero tambien los juegos de farming
+- 🐈‍⬛ Tengo un gato y me gusta escuchar musica y salir a tomar cafe
+- 🍰 Tambien me gusta cocinar cosas dulces 
 
 
 <br>
