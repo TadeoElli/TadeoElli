@@ -25,6 +25,51 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Mommentum Missile Mayhem FanGame</h3>
+<div align="center">
+<a href="https://github.com/TadeoElli/MMM-Project" target="_blank"><img src="https://i.imgur.com/jdK1NhD.png" width="400" alt="Mommentum Missile Mayhem FanGame"></a>
+<p>
+<a href="https://github.com/TadeoElli/MMM-Project" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://taio1000.itch.io/mommentum-missile-mayhem" target="_blank">
+<img src="https://img.shields.io/badge/-Itch.Io-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Este proyecto es una version propia del <strong> Mommentum Missile Mayhem</strong> original, un juego que jugaba de chico y ahora queria recrearlo para poner en practica mis habilidades de programacion, haciendo mucho enfoque en la optimizacion y organizacion. </p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Plague Hunter</h3>
+<div align="center">                                       
+<a href="https://github.com/TadeoElli/Plague-Hunter" target="_blank"><img src="https://i.imgur.com/8cnIvDp.jpeg" width="400" alt="Plague Hunter"></a>
+<br>
+<p>
+<a href="https://github.com/TadeoElli/Plague-Hunter" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://taio1000.itch.io/plague-hunter" target="_blank">
+<img src="https://img.shields.io/badge/-Itch.Io-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p><strong>Plague Hunter</strong> fue mi primer proyecto 3D, en el, encarnaras a un alquimista que debe buscar el origen de una plaga que afecta a todos los seres vivos mutandolos en mounstruos peligrosos. Aprovecha tus conocimientos alquimicos para crear pociones y sobrevivir a la plaga</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+<table>
+<tr>
+<td width="50%">
 <h3 align="center">Casino Operation</h3>
 <div align="center">
 <a href="https://github.com/TadeoElli/CasinoOperation" target="_blank"><img src="https://i.imgur.com/Zjg04ht.jpeg" width="400" alt="Casino Operation"></a>
