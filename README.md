@@ -43,19 +43,19 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Plague Hunter</h3>
+<h3 align="center">UnrealProject</h3>
 <div align="center">                                       
-<a href="https://github.com/TadeoElli/Plague-Hunter" target="_blank"><img src="https://i.imgur.com/8cnIvDp.jpeg" width="400" alt="Plague Hunter"></a>
+<a href="https://github.com/AlumnosDV/PrototipoUnreal" target="_blank"><img src="https://i.imgur.com/QVFobym.png" width="400" alt="Plague Hunter"></a>
 <br>
 <p>
-<a href="https://github.com/TadeoElli/Plague-Hunter" target="_blank">
+<a href="https://github.com/AlumnosDV/PrototipoUnreal" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://taio1000.itch.io/plague-hunter" target="_blank">
+<a href="https://taio1000.itch.io/unrealproject" target="_blank">
 <img src="https://img.shields.io/badge/-Itch.Io-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p><strong>Plague Hunter</strong> fue mi primer proyecto 3D, en el, encarnaras a un alquimista que debe buscar el origen de una plaga que afecta a todos los seres vivos mutandolos en mounstruos peligrosos. Aprovecha tus conocimientos alquimicos para crear pociones y sobrevivir a la plaga</p>
+</p> Este fue mi primer projecto hecho en UnrealEngine 5, un proyecto que realize en grupo y juegas como un jugador de futbol que viaja en el tiempo, terminando en la epoca medieval justo durante el asedio a un castillo donde tiene que escapar</p>
 </div>                                                             
 </table>                                                                                 
 </div>
