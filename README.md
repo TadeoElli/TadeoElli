@@ -3,9 +3,8 @@
 </div>
 <img src="https://i.imgur.com/6pIW9gM.jpeg">
 
-
-[![Twitch Status](https://img.shields.io/twitch/status/taio1000)](https://www.twitch.tv/taio1000)
-[![GitHub followers](https://img.shields.io/github/followers/TadeoElli)](https://github.com/TadeoElli)
+<p><a target="_blank" href="mailto:tadeo.taio.elli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail /></a>
+<a target="_blank" href="https://www.linkedin.com/in/tadeo-elli-0677b7208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin /></a> </p>
 
 
 
