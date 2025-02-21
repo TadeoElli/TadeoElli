@@ -20,13 +20,18 @@
 
 <br>
 
-## Proyectos
+## Proyectos                                                                                    
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Mommentum Missile Mayhem FanGame</h3>
 <div align="center">
-<a href="https://github.com/TadeoElli/MMM-Project" target="_blank"><img src="https://i.imgur.com/jdK1NhD.png" width="400" alt="Mommentum Missile Mayhem FanGame"></a>
+<a href="https://github.com/TadeoElli/MMM-Project" target="_blank"><img src="https://i.imgur.com/3ejyKLF.png" width="400" alt="Mommentum Missile Mayhem FanGame"></a>
 <p>
 <a href="https://github.com/TadeoElli/MMM-Project" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -44,7 +49,7 @@
                <br>
 <h3 align="center">UnrealProject</h3>
 <div align="center">                                       
-<a href="https://github.com/AlumnosDV/PrototipoUnreal" target="_blank"><img src="https://i.imgur.com/QVFobym.png" width="400" alt="Plague Hunter"></a>
+<a href="https://github.com/AlumnosDV/PrototipoUnreal" target="_blank"><img src="https://i.imgur.com/9ZyReDB.png" width="400" alt="Plague Hunter"></a>
 <br>
 <p>
 <a href="https://github.com/AlumnosDV/PrototipoUnreal" target="_blank">
@@ -71,7 +76,7 @@
 <td width="50%">
 <h3 align="center">Casino Operation</h3>
 <div align="center">
-<a href="https://github.com/TadeoElli/CasinoOperation" target="_blank"><img src="https://i.imgur.com/Zjg04ht.jpeg" width="400" alt="Casino Operation"></a>
+<a href="https://github.com/TadeoElli/CasinoOperation" target="_blank"><img src="https://i.imgur.com/Vr04vTd.png" width="400" alt="Casino Operation"></a>
 <p>
 <a href="https://github.com/TadeoElli/CasinoOperation" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -89,7 +94,7 @@
                <br>
 <h3 align="center">Plague Hunter</h3>
 <div align="center">                                       
-<a href="https://github.com/TadeoElli/Plague-Hunter" target="_blank"><img src="https://i.imgur.com/8cnIvDp.jpeg" width="400" alt="Plague Hunter"></a>
+<a href="https://github.com/TadeoElli/Plague-Hunter" target="_blank"><img src="https://i.imgur.com/WsvAYfF.png" width="400" alt="Plague Hunter"></a>
 <br>
 <p>
 <a href="https://github.com/TadeoElli/Plague-Hunter" target="_blank">
