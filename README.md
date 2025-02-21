@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://taio1000.itch.io/">Taio1000</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/6pIW9gM.jpeg">
 
 <p><a target="_blank" href="mailto:tadeo.taio.elli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail /></a>
 <a target="_blank" href="https://www.linkedin.com/in/tadeo-elli-0677b7208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin /></a> </p>
@@ -19,7 +18,24 @@
 
 
 <br>
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">TeonixStudios</h3>
+<div align="center">
+<a href="https://teonixstudios.com/en/beatlords/" target="_blank"><img src="https://teonixstudios.com/wp-content/uploads/2024/07/Beatlords_portada2_1920x1080-1024x576.jpg" width="400" alt="Mommentum Missile Mayhem FanGame"></a>
+<p>
+
+<p>Trabajo como programador Unity encargado de dise;ar e imlementar las mecanicas principales de manera optima y escalable, ademas de optimizar todo el proyecto y crear los ports para celular. </p>
+</div>
+                                                                                      
+</td>
+<br>
 ## Proyectos                                                                                    
 </td>  
 </table>                                                                                 
