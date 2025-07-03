@@ -1,9 +1,19 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://taio1000.itch.io/">Taio1000</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://taio1000.itch.io/">Taio1000</a> 👋</h1>
 </div>
 
-<p><a target="_blank" href="mailto:tadeo.taio.elli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail /></a>
-<a target="_blank" href="https://www.linkedin.com/in/tadeo-elli-0677b7208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin /></a> </p>
+<p>
+  <a target="_blank" href="mailto:tadeo.taio.elli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/tadeo-elli-0677b7208/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://drive.google.com/file/d/1fKzEeMlqMO_PP33n9XR48tnh5Y_DqCnP/view?usp=sharing" download>
+    <img src="https://img.shields.io/badge/CV-Descargar-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+  </a>
+</p>
+
 
 
 
