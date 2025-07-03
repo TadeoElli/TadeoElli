@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="https://drive.google.com/file/d/1fKzEeMlqMO_PP33n9XR48tnh5Y_DqCnP/view?usp=sharing" download>
-    <img src="https://img.shields.io/badge/CV-Descargar-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+    <img src="https://img.shields.io/badge/CV-Descargar-43b581?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
   </a>
 </p>
 
