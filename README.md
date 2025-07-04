@@ -111,7 +111,7 @@
 <img src="https://img.shields.io/badge/-Itch.Io-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Mi primer projecto para mobile, strong>Casino Operation</strong> es un juego de sigilo donde deberas recorrer distintos casinos esquivando a los guardias y recolectando cartas para hacer trampa y ganar dinero sin que te descubran. </p>
+<p>Mi primer projecto para mobile, <strong>Casino Operation</strong> es un juego de sigilo donde deberas recorrer distintos casinos esquivando a los guardias y recolectando cartas para hacer trampa y ganar dinero sin que te descubran. </p>
 </div>
                                                                                       
 </td>
