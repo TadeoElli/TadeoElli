@@ -41,7 +41,7 @@
 <a href="https://teonixstudios.com/en/beatlords/" target="_blank"><img src="https://teonixstudios.com/wp-content/uploads/2024/07/Beatlords_portada2_1920x1080-1024x576.jpg" width="400" alt="Mommentum Missile Mayhem FanGame"></a>
 <p>
 
-<p>Trabajo como programador Unity encargado de dise;ar e imlementar las mecanicas principales de manera optima y escalable, ademas de optimizar todo el proyecto y crear los ports para celular. </p>
+<p>Trabajo como programador Unity encargado de diseñar e imlementar las mecanicas principales de manera optima y escalable, ademas de optimizar todo el proyecto y crear los ports para celular. </p>
 </div>
                                                                                       
 </td>
