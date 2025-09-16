@@ -72,19 +72,16 @@
 
 <td width="50%">
                <br>
-<h3 align="center">UnrealProject</h3>
+<h3 align="center">Math Mayhem</h3>
 <div align="center">                                       
-<a href="https://github.com/AlumnosDV/PrototipoUnreal" target="_blank"><img src="https://i.imgur.com/9ZyReDB.png" width="400" alt="Plague Hunter"></a>
+<a target="_blank"><img src="https://i.imgur.com/7YBRoJk.png" width="400" alt="Math Mayhem"></a>
 <br>
 <p>
-<a href="https://github.com/AlumnosDV/PrototipoUnreal" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://taio1000.itch.io/unrealproject" target="_blank">
-<img src="https://img.shields.io/badge/-Itch.Io-green?style=for-the-badge&color=3fFD7f">
+<!-- <a href="https://taio1000.itch.io/unrealproject" target="_blank">-->
+<!--<img src="https://img.shields.io/badge/-Itch.Io-green?style=for-the-badge&color=3fFD7f">-->
 </a>
 </p>
-</p> Este fue mi primer projecto hecho en UnrealEngine 5, un proyecto que realize en grupo y juegas como un jugador de futbol que viaja en el tiempo, terminando en la epoca medieval justo durante el asedio a un castillo donde tiene que escapar</p>
+</p> Este es mi primer proyecto educativo. Decidi aprovechar los juegos que hice antes para darle aspectos educativos de manera simple y tener un prototipo funcional en menos de 2 semanas</p>
 </div>                                                             
 </table>                                                                                 
 </div>
