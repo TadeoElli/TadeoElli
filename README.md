@@ -40,6 +40,8 @@
 <div align="center">
 <a href="https://teonixstudios.com/en/beatlords/" target="_blank"><img src="https://teonixstudios.com/wp-content/uploads/2024/07/Beatlords_portada2_1920x1080-1024x576.jpg" width="400" alt="Mommentum Missile Mayhem FanGame"></a>
 <p>
+<a href="https://store.steampowered.com/app/3604860/Beatlords/" target="_blank">
+<img src="https://img.shields.io/badge/-Steam-green?style=for-the-badge&color=2258A3">
 
 <p>Trabajo como programador Unity encargado de diseñar e imlementar las mecanicas principales de manera optima y escalable, ademas de optimizar todo el proyecto y crear los ports para celular. </p>
 </div>
@@ -48,6 +50,42 @@
 <br>
 ## Proyectos                                                                                    
 </td>  
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">WaxHeart</h3>
+<div align="center">
+<a href="https://waxheart.info/" target="_blank"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2381630/cd7b2b7392ddcd1d5e0d43ae9e35df6f0ca41b60/header.jpg?t=1750124640" width="400" alt="Wax Heart"></a>
+<p>
+<a href="https://store.steampowered.com/app/2381630/WaxHeart/" target="_blank">
+<img src="https://img.shields.io/badge/-Steam-green?style=for-the-badge&color=2258A3">
+</a>
+</p>
+<p>Juego de aventura y exploración 3D enfocado en la resolucion de puzzles y exploración. Mi trabajo consistía en corregir errores y optimizar/implementar sistemas y mecánicas. </p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">UnrealProject</h3>
+<div align="center">                                       
+<a href="https://github.com/AlumnosDV/PrototipoUnreal" target="_blank"><img src="https://i.imgur.com/9ZyReDB.png" width="400" alt="Plague Hunter"></a>
+<br>
+<p>
+<a href="https://github.com/AlumnosDV/PrototipoUnreal" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://taio1000.itch.io/unrealproject" target="_blank">
+<img src="https://img.shields.io/badge/-Itch.Io-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p> Este fue mi primer projecto hecho en UnrealEngine 5, un proyecto que realize en grupo y juegas como un jugador de futbol que viaja en el tiempo, terminando en la epoca medieval justo durante el asedio a un castillo donde tiene que escapar</p>
+</div>                                                             
 </table>                                                                                 
 </div>
 <br>
